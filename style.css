@@ -5,5 +5,8 @@
 #quote-box {
     display: inline-block;
     margin: 0 auto;
-    border: solid 5px blue;
+    border: 5px solid blueviolet;
+    left: 50%;
+    top: 50%;
+    padding: 10%;
 }
